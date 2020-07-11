@@ -8,8 +8,8 @@ How to run:
 
 You can use this project as start template for your own project and reuse work with redux.
 
-#### Log actions
+#### Action logging
 <img src='https://i.ibb.co/41vRj9V/screenshot-382.png' width='700'/>
 
-#### Trace actions
+#### Action tracing
 <img src='https://i.ibb.co/W2ZknxL/screenshot-381.png'/>
