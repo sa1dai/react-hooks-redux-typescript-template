@@ -12,4 +12,4 @@ You can use this project as start template for your own project and reuse work w
 <img src='https://i.ibb.co/41vRj9V/screenshot-382.png' width='700'/>
 
 #### Action tracing
-<img src='https://i.ibb.co/W2ZknxL/screenshot-381.png'/>
+<img src='https://i.ibb.co/wp48bn4/screenshot-383.png'/>
