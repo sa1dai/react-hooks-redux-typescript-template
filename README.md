@@ -7,6 +7,7 @@ How to run:
 3. npm start
 
 You can use this project as start template for your own project and reuse work with redux.
+
 Note: official redux-typescript template exists - https://github.com/reduxjs/cra-template-redux-typescript
 
 #### Action logging
