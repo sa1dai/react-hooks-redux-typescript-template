@@ -3,7 +3,7 @@ import { ThunkDispatch } from "redux-thunk";
 import { Action } from "redux";
 import { RootState, AuthState } from "../types/store";
 
-const ACCESS_TOKEN_RECEIVED = "employee/accessTokenReceived";
+const ACCESS_TOKEN_RECEIVED = "auth/accessTokenReceived";
 
 export const accessTokenReceived = createAction(ACCESS_TOKEN_RECEIVED);
 
